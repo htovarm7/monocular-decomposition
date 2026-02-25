@@ -1,1 +1,1 @@
-# monocular-decomposition
+# Transparent Object detections to output the GPD grasp point
